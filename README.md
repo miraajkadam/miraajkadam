@@ -4,9 +4,11 @@ Hi 👋 My name is Miraaj
 =============================
 
 * 🌍  I'm based in Noida, India
-* ✉️  You can contact me at [miraajkadam@gmail.com](mailto:miraajkadam@gmail.com)
-* 🧠  I'm learning Jest
+* 🔭  I’m currently working on Next.js with Node, Express and MongoDB.
+* 👀  I’m interested in Fullstack Web Development!
+* 🧠  I'm learning React - Jest
 * 🤝  I'm open to collaborating on anything .. open source...
+* ✉️  You can contact me at [miraajkadam@gmail.com](mailto:miraajkadam@gmail.com)
 
 ### Skills
 
