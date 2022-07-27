@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=miraajkadam&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/0d7bf612-5695-4679-b9e8-8c710e91f5b2.svg)](https://wakatime.com/@0d7bf612-5695-4679-b9e8-8c710e91f5b2)
 
 Hi 👋 My name is Miraaj
 =============================
