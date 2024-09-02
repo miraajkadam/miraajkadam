@@ -4,7 +4,7 @@
 Hi 👋 My name is Miraaj
 =============================
 
-* 🌍  I'm based in Noida, India
+* 🌍  I'm based in Pune, India
 * 🔭  I’m currently working on Next.js with Node, Express and MongoDB.
 * 👀  I’m interested in Fullstack Web Development!
 * 🧠  I'm learning Jest (React) and Java..
