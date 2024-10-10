@@ -5,7 +5,7 @@ Hi 👋 My name is Miraaj
 =============================
 
 * 🌍  I'm based in Pune, India
-* 🔭  I’m currently working with Next.js, Node.js, PostgreSQL and MongoDB.
+* 🔭  I’m currently working with Next, Node, PostgreSQL and MongoDB.
 * 👀  I’m interested in Fullstack Development!
 * 🧠  I'm currently learning about DApps and DeFi.
 * 🤝  I'm open to collaborating on anything .. open source...
