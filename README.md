@@ -5,9 +5,9 @@ Hi 👋 My name is Miraaj
 =============================
 
 * 🌍  I'm based in Pune, India
-* 🔭  I’m currently working on Next.js with Node, Express and MongoDB.
-* 👀  I’m interested in Fullstack Web Development!
-* 🧠  I'm learning Jest (React) and Java..
+* 🔭  I’m currently working with Next.js, Node.js, PostgreSQL and MongoDB.
+* 👀  I’m interested in Fullstack Development!
+* 🧠  I'm currently learning about DApps and DeFi.
 * 🤝  I'm open to collaborating on anything .. open source...
 * ✉️  You can contact me at [miraajkadam@gmail.com](mailto:miraajkadam@gmail.com)
 
